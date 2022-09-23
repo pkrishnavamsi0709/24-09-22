@@ -1,0 +1,27 @@
+body{
+    font-size:24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#first>p{
+    color:rgb(239, 127, 29);
+}
+
+#first,#second{
+ font-family:'Courier New', Courier, monospace;
+}
+
+.blue{
+    color:rgb(50, 19, 226);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.green{
+    color:rgb(56, 235, 59);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+
+.highlight{
+     background-color: rgba(231, 252, 75, 0.89);
+     font-weight:bolder;
+     font-style: italic;
+}
